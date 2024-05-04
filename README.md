@@ -18,11 +18,8 @@ sort all task and add by using sorting
 handle the delete functionality
 
 handle the done and undo functionality
-
-handle the local storage functionality
-
+handle the local strogae 
 handle the redux
-
 getting data by using redux making a call on selector of redux
 
 
